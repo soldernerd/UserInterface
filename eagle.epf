@@ -1,0 +1,51 @@
+[Eagle]
+Version="07 06 00"
+Platform="Windows"
+Serial="712DDA057C-LS-WLM-1CS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00ADC.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Capacitor.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Connector.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Crystal.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00DAC.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00DigiPot.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Diode.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Display.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Drill.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Inductor.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00LNA.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Logic.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Mosfet.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00MyParts.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00OpAmp.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00PIC.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Resistor.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Sensor.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Supply.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Switch.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00Transistor.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00VoltageReference.lbr"
+UsedLibrary="Z:/My Documents/EmbeddedSystems/eagle/Libraries/00VoltageRegulator.lbr"
+
+[Win_1]
+Type="CAM Processor"
+Loc="-4 -23 595 419"
+State=2
+Number=3
+File="UserInterface_RevC.brd"
+Job="Z:/My Documents/EmbeddedSystems/eagle/CAM/dirtypcbs.cam"
+
+[Win_2]
+Type="Control Panel"
+Loc="0 0 1919 1136"
+State=1
+Number=0
+
+[Desktop]
+Screen="3840 1200"
+Window="Win_1"
+Window="Win_2"
